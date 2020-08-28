@@ -1,11 +1,11 @@
 # bdf2lcdgfx
 This is a font format converter that converts bdf font to lcdgfx c style free (= proportional) font.
-The converted font is for [lcdgfx] (https://github.com/lexus2k/lcdgfx).
+The converted font is for [lcdgfx](https://github.com/lexus2k/lcdgfx).
 lcdgfx is very usable driver for lcds, oleds, I like it!
-I also like [U8G2] (https://github.com/olikraus/u8g2) that is similar driver especialy for monochrome display.
+I also like [U8G2](https://github.com/olikraus/u8g2) that is similar driver especialy for monochrome display.
 U8G2 has a lot of fonts, but lcdgfx has a few.
 So I made this converter.
-For example, there are nice fonts such as [crox3hb] (https://github.com/olikraus/u8g2/wiki/fntgrpcrox#crox3hb).
+For example, there are nice fonts such as [crox3hb](https://github.com/olikraus/u8g2/wiki/fntgrpcrox#crox3hb).
 It comes from win_crox has been downloaded from http://www.kovrik.com/sib/russify/x-windows/ (Xrus CP 1251 fonts).
 
 ## How to use
