@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "name": "Mingw64 clang",
+            "compilerPath": "C:/msys64/mingw64/bin/g++.exe",
+            "compileCommands": "",
+            "includePath": [
+                "${workspaceFolder}/**",
+		"C:/msys64/mingw64/include",
+		"C:/msys64/mingw64/include/c++/10.2.0",
+		"C:/msys64/mingw64/include/c++/10.2.0/x86_64-w64-mingw32",
+		"C:/msys64/mingw64/include/c++/10.2.0/backward",
+		"C:/msys64/mingw64/lib/clang/10.0.0/include",
+		"C:/msys64/mingw64/x86_64-w64-mingw32/include"
+            ],
+            "defines": [
+                "__GNUC__",
+                "HAVE_STDINT_H", "BOOST_USE_WINDOWS_H",
+                "WIN32",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "8.1",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
