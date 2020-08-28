@@ -1,3 +1,13 @@
+/*
+  This is a font format converter that converts bdf font to lcdgfx c style free (= proportional) font.
+  The converted font is for lcdgfx(https://github.com/lexus2k/lcdgfx).
+  
+  Date: August 29, 2020
+  Copyright mayopan (https://github.com/mayopan)
+  License: MIT. See license file for more information but you can
+  basically do whatever you want with this code.
+*/
+
 #include <string>
 #include <fstream>
 #include <iostream>
